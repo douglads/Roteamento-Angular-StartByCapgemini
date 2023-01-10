@@ -5,7 +5,7 @@ Olá, sou Douglas estudo Análise e Desenvolvimento de Sistemas, no Centro Unive
 Neste repositório disponibilizarei todos arquivos relacionados a Angular.
 
 ## Comandos utilizados
-### Aula 5-A
+## Aula 5-A
 
 ### ng serve: 
 Utilizado para iniciar aplicação angular num ambiente de desenvolvimento.
@@ -21,3 +21,7 @@ O "g" antes do modulo diz que é para gerar algo, "module" é utilizado para rea
 
 ### ng g componente PrimeiraPagina
 Comando utilizado para gerar componentes.
+
+Aula 5-E
+### ng g module lazy-loading --route lazy-loading --module=app.module
+O comando "--route lazy-loading", serve para adicionar o lazy-loading ao route, e o "--module=app.module" server para adicionar o lazy-loading ao app-routing.module
