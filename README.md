@@ -22,6 +22,10 @@ O "g" antes do modulo diz que é para gerar algo, "module" é utilizado para rea
 ### ng g componente PrimeiraPagina
 Comando utilizado para gerar componentes.
 
-Aula 5-E
+## Aula 5-E
 ### ng g module lazy-loading --route lazy-loading --module=app.module
 O comando "--route lazy-loading", serve para adicionar o lazy-loading ao route, e o "--module=app.module" server para adicionar o lazy-loading ao app-routing.module
+
+## Aula 5-F
+#### ng g guard auth
+O aṕos o comando "ng g" vem o "guard auth" o comando guard cria arquivos para que sejam configuradas páginas privadas no angular, que só pode ser vista se você tiver um token.
